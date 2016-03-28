@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="answerButtonColor">#C6E872</color>
+    <color name="answer_button_font_color">#0D625E</color>
+    <color name="navigationButtonColor">#0D625E</color>
+    <color name="infoTextColor">#66D37E</color>
+</resources>
